@@ -1,0 +1,4 @@
+fichero 
+otra linea
+
+fix el bug de cristina
